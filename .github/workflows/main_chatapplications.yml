@@ -1,6 +1,0 @@
-- name: Use Node 16
-  uses: actions/setup-node@v3
-  with:
-    node-version: 16
-app_location: "client"
-output_location: "build"
